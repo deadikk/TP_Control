@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<strips>
+  <strip name="FileStrip" x="668" y="0" />
+  <strip name="EditStrip" x="247" y="0" />
+  <strip name="PanelStrip" x="436" y="0" />
+  <strip name="PageStrip" x="529" y="0" />
+  <strip name="ButtonStrip" x="67" y="0" />
+  <strip name="LayoutStrip" x="3" y="0" />
+  <strip name="flagsStrip" x="189" y="0" />
+  <flag name="stripLoading" state="True" />
+  <flag name="aimDraw" state="False" />
+  <flag name="dragButton" state="True" />
+  <flag name="autosave" state="True" />
+  <flag name="autosavetime" state="10" />
+</strips>

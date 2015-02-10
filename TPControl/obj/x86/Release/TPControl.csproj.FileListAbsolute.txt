@@ -1,0 +1,29 @@
+C:\Documents and Settings\sdi\мои документы\visual studio 2010\Projects\TPControl\TPControl\bin\Release\TPControl.exe
+C:\Documents and Settings\sdi\мои документы\visual studio 2010\Projects\TPControl\TPControl\bin\Release\TPControl.pdb
+C:\Documents and Settings\sdi\мои документы\visual studio 2010\Projects\TPControl\TPControl\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\sdi\мои документы\visual studio 2010\Projects\TPControl\TPControl\obj\x86\Release\TPControl.Properties.Resources.resources
+C:\Documents and Settings\sdi\мои документы\visual studio 2010\Projects\TPControl\TPControl\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\sdi\мои документы\visual studio 2010\Projects\TPControl\TPControl\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\sdi\мои документы\visual studio 2010\Projects\TPControl\TPControl\obj\x86\Release\TPControl.exe
+C:\Documents and Settings\sdi\мои документы\visual studio 2010\Projects\TPControl\TPControl\obj\x86\Release\TPControl.pdb
+C:\Documents and Settings\sdi\мои документы\visual studio 2010\Projects\TPControl\TPControl\obj\x86\Release\GenerateResource-ResGen.read.4.tlog
+C:\Documents and Settings\sdi\мои документы\visual studio 2010\Projects\TPControl\TPControl\obj\x86\Release\TPControl.TPC.resources
+C:\Users\Home\Desktop\TPControl_13_08\TPControl\TPControl\obj\x86\Release\TPControl.exe
+C:\Users\Home\Desktop\TPControl_13_08\TPControl\TPControl\obj\x86\Release\TPControl.pdb
+C:\Users\Home\Desktop\TPControl_13_08\TPControl\TPControl\bin\Release\TPControl.exe
+C:\Users\Home\Desktop\TPControl_13_08\TPControl\TPControl\bin\Release\TPControl.pdb
+C:\Users\Home\Desktop\TPControl_13_08\TPControl\TPControl\obj\x86\Release\TPControl.TPC.resources
+C:\Users\Home\Desktop\TPControl_13_08\TPControl\TPControl\obj\x86\Release\TPControl.Properties.Resources.resources
+C:\Users\Home\Desktop\TPControl_13_08\TPControl\TPControl\obj\x86\Release\TPControl.csproj.GenerateResource.Cache
+C:\Users\Home\Desktop\TPControl_13_08\TPControl\TPControl\obj\x86\Release\TPControl.csprojResolveAssemblyReference.cache
+C:\Documents and Settings\sdi\Мои документы\Visual Studio 2010\Projects\TPControl\TPControl\obj\x86\Release\TPControl.preferences.resources
+C:\Users\Home\Desktop\TPControl\TPControl\obj\x86\Release\TPControl.exe
+C:\Users\Home\Desktop\TPControl\TPControl\obj\x86\Release\TPControl.pdb
+C:\Users\Home\Desktop\TPControl\TPControl\obj\x86\Release\TPControl.csprojResolveAssemblyReference.cache
+C:\Users\Home\Desktop\TPControl\TPControl\obj\x86\Release\TPControl.TPC.resources
+C:\Users\Home\Desktop\TPControl\TPControl\obj\x86\Release\TPControl.preferences.resources
+C:\Users\Home\Desktop\TPControl\TPControl\obj\x86\Release\TPControl.Properties.Resources.resources
+C:\Users\Home\Desktop\TPControl\TPControl\obj\x86\Release\TPControl.csproj.GenerateResource.Cache
+C:\Users\Home\Desktop\TPControl\TPControl\bin\Release\TPControl.exe
+C:\Users\Home\Desktop\TPControl\TPControl\bin\Release\TPControl.pdb
+C:\Documents and Settings\sdi\мои документы\visual studio 2010\Projects\TPControl\TPControl\obj\x86\Release\TPControl.Help.resources
